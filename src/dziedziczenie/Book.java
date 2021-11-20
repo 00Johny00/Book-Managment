@@ -28,6 +28,8 @@ public class Book {
         this.coverType = coverType;
     }
 
+    
+
 
     @Override
     public boolean equals(Object o) {
